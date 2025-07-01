@@ -1,0 +1,40 @@
+# LangChain and Extensions
+langchain
+langchain-core
+langchain[anthropic]
+langchain-anthropic
+# langchain-google-genai
+langchain-huggingface
+
+# LangGraph
+# langgraph>0.2.27
+
+# Google Gemini (PaLM) Integration
+# google-generativeai
+
+# Hugging Face Integration
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+
+# torch==2.3.0+cpu --index-url https://download.pytorch.org/whl/cpu
+
+langchain-cohere==0.1.0
+cohere
+
+
+sentence-transformers
+
+streamlit
+altair==4.2.2
+
+###################################
+
+# pydantic[email]
